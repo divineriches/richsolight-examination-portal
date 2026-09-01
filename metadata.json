@@ -1,0 +1,6 @@
+{
+  "name": "Richsolight Exam Reporting Portal",
+  "description": "Comprehensive school exam reporting portal for Richsolight International School to manage classes, subjects, students, record scores (CA1, CA2, Mid-term, Exam), compute positions, and print official report cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
